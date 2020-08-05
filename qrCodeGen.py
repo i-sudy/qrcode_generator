@@ -1,3 +1,4 @@
+#SD 08/05/2020 QR Code generator 
 # installation pip install pillow qrcode
 from PIL import Image , ImageDraw
 from datetime import datetime
